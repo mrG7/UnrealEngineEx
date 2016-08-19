@@ -1,0 +1,24 @@
+{
+    "FileVersion": 3,
+    "Version": 1,
+    "VersionName": "0.1",
+    "FriendlyName": "UnrealEngineEx",
+    "Description": "Unreal Engine Extension Library",
+    "Category": "Other",
+    "CreatedBy": "Igor Karatayev",
+    "CreatedByURL": "",
+    "DocsURL": "",
+    "MarketplaceURL": "",
+    "SupportURL": "",
+    "Modules": [
+        {
+            "Name": "CoordinateSystemEx",
+            "Type": "Runtime",
+            "LoadingPhase": "Default"
+        }
+    ],
+    "EnabledByDefault": true,
+    "CanContainContent": false,
+    "IsBetaVersion": false,
+    "Installed": false
+}
